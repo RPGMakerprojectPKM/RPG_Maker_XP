@@ -1,0 +1,12 @@
+# Pueblo aguacate (6) - Ruta 002 (5)
+6,South,11,5,North,0
+# Ruta 003 (7) - Ruta 002 (5)
+7,West,0,5,East,8
+# Pueblo Empanada (2) - Ruta 002 (5)
+2,North,0,5,South,0
+# Ruta 003 (7) - Ruta 006 (11)
+7,East,0,11,West,0
+# Ruta 004 (9) - Pueblo aguacate (6)
+9,West,0,6,East,0
+# Ruta 005 (10) - Ruta 004 (9)
+10,West,20,9,East,0
