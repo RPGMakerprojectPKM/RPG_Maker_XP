@@ -77,10 +77,12 @@ MapPosition=0,13,10
 # Ruta 007
 MapPosition=0,13,10
 [016]
+# Zona misteriosa
 MapPosition=0,13,10
 [017]
 MapPosition=0,13,10
 [018]
+# Zona misteriosa
 MapPosition=0,13,10
 [019]
 MapPosition=0,13,10
