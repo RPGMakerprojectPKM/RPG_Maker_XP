@@ -65,12 +65,16 @@ MapPosition=0,14,10
 Outdoor=true
 ShowArea=true
 [012]
+# PKMNCenter
 MapPosition=0,14,10
 [013]
+# CasaRuta002
 MapPosition=0,14,10
 [014]
+# Tienda
 MapPosition=0,13,10
 [015]
+# Ruta 007
 MapPosition=0,13,10
 [016]
 MapPosition=0,13,10
