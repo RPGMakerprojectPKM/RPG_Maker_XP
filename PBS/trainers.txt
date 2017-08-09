@@ -1,4 +1,4 @@
-﻿# Consulta la documentación de la wiki para aprender a modificar este archivo.
+﻿# See the documentation on the wiki to learn how to edit this file.
 #-------------------
 CAMPER
 Liam
@@ -118,7 +118,6 @@ Blue
 VENUSAUR,63,SITRUSBERRY
 CHARIZARD,63,SITRUSBERRY
 BLASTOISE,63,SITRUSBERRY
-
 #-------------------
 CHICA
 Mari
@@ -129,3 +128,8 @@ CAZABICHOS
 Wil
 1
 CATERPIE,2
+#-------------------
+AROMALADY
+Mar
+1
+SHROOMISH,6,,ABSORB,TACKLE
