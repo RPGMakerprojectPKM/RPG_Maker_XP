@@ -83,6 +83,7 @@ ShowArea=true
 # Zona misteriosa
 MapPosition=0,13,10
 [017]
+# Cueva del cefalopodo ct.
 MapPosition=0,13,10
 [018]
 # Zona misteriosa
