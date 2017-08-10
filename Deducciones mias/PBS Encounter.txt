@@ -1,0 +1,4 @@
+Encuentros pokemons en los mapas:
+Se definen de esta manera cada ruta tiene 
+sus subencuentros, y en cada subencuentro se definen 12 encuentros de pokemons con sus niveles minimos y maximos.
+20% 20% 10% 10% 10% 10% 5% 5% 4% 4% 1% 1%

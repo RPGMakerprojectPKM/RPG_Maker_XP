@@ -92,7 +92,9 @@ ShowArea=true
 # Zona misteriosa
 MapPosition=0,13,10
 [019]
+# Zona misteriosa
 MapPosition=0,13,10
+Outdoor=true
 [020]
 MapPosition=0,13,10
 [021]
