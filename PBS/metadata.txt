@@ -96,6 +96,7 @@ MapPosition=0,13,10
 MapPosition=0,13,10
 Outdoor=true
 [020]
+# Ruta 008
 MapPosition=0,13,10
 [021]
 MapSize=1,11
