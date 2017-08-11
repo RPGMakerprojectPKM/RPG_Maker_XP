@@ -106,6 +106,7 @@ MapPosition=0,14,8
 Outdoor=true
 ShowArea=true
 [023]
+# Ciudad perro muerto
 MapPosition=0,15,8
 Outdoor=true
 ShowArea=true
