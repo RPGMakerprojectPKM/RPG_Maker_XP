@@ -50,7 +50,7 @@ METAPOD,2,4
 METAPOD,3,5
 METAPOD,3,5
 #########################
-021
+021 # Entrada N. Cueva del cefalopodo
 25,10,10
 Land
 RATTATA,12,15

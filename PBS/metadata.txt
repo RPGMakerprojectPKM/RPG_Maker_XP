@@ -99,6 +99,7 @@ Outdoor=true
 # Ruta 008
 MapPosition=0,13,10
 [021]
+# Entrada N. Cueva del cefalopodo
 MapSize=1,11
 Weather=Rain,50
 MapPosition=0,14,8
