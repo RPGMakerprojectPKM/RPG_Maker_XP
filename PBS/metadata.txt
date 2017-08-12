@@ -97,7 +97,10 @@ MapPosition=0,13,10
 Outdoor=true
 [020]
 # Ruta 008
+Bicycle=true
 MapPosition=0,13,10
+Outdoor=true
+ShowArea=true
 [021]
 # Entrada N. Cueva del cefalopodo
 MapSize=1,11
@@ -105,8 +108,13 @@ Weather=Rain,50
 MapPosition=0,14,8
 Outdoor=true
 ShowArea=true
+[022]
+# Ruta 009
+Bicycle=true
+Outdoor=true
 [023]
 # Ciudad perro muerto
+Bicycle=true
 MapPosition=0,15,8
 Outdoor=true
 ShowArea=true
@@ -115,6 +123,7 @@ ShowArea=true
 MapPosition=0,15,8
 HealingSpot=23,11,15
 [025]
+# Club de veganos
 MapPosition=0,15,8
 [026]
 MapPosition=0,15,8
