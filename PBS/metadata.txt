@@ -111,6 +111,7 @@ MapPosition=0,15,8
 Outdoor=true
 ShowArea=true
 [024]
+# Gimnasio de perro muerto
 MapPosition=0,15,8
 HealingSpot=23,11,15
 [025]

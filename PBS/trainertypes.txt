@@ -74,7 +74,7 @@
 73,MONTAERO,Montañero,30,,,,Male,,
 74,CHICA,Chica,30,,,,Female,,
 75,CHICO,Chico,30,,,,Male,,
-76,BELLA,Bella,50,,,,Female,,
+76,BELLA,Bella,98,,,,Female,250,
 77,CAZABICHOS,Cazabichos,20,,,,Male,,
 78,GUARRILLA,Guarrilla,38,,,,Female,,
 79,SAITAMA,Saitama,30,,,,Mixed,,
