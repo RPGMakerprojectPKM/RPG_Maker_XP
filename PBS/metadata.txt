@@ -126,15 +126,19 @@ HealingSpot=23,11,15
 # Club de veganos
 MapPosition=0,15,8
 [026]
+# Extension ruta 008
 MapPosition=0,15,8
 [027]
+# PKMNCenter
 MapPosition=0,15,8
 [028]
+# Casa1
 BattleBack=Forest
 MapPosition=0,16,8
 Outdoor=true
 ShowArea=true
 [029]
+# Tienda
 Bicycle=true
 MapPosition=0,16,8
 [030]

@@ -103,7 +103,7 @@ SPINARAK,9,12
 SPINARAK,9,12
 SPINARAK,9,12
 #########################
-028
+028 # Casa1
 25,10,10
 Land
 CATERPIE,10
