@@ -142,6 +142,7 @@ ShowArea=true
 Bicycle=true
 MapPosition=0,16,8
 [030]
+# Ruta 008
 MapPosition=0,16,8
 [031]
 MapSize=2,1101
