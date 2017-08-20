@@ -15,7 +15,7 @@
 # Zona misteriosa (18) - Zona misteriosa (16)
 18,West,0,16,East,0
 # Ruta 004 (9) - Zona misteriosa (16)
-9,West,0,16,East,25
+9,North,0,16,South,52
 # Ruta 008 (20) - Zona misteriosa (16)
 20,South,25,16,North,0
 # Extension ruta 008 (26) - Zona misteriosa (16)
@@ -28,8 +28,6 @@
 23,South,126,22,North,0
 # Zona misteriosa (18) - Ruta 009 (22)
 18,North,49,22,South,0
-# Ruta 004 (9) - Ruta 009 (22)
-9,East,0,22,West,100
 # Extension ruta 008 (26) - Ruta 009 (22)
 26,East,0,22,West,0
 # Ruta 007 (15) - Ruta 009 (22)
@@ -40,8 +38,6 @@
 18,West,25,6,East,0
 # Zona misteriosa (19) - Pueblo aguacate (6)
 19,North,9,6,South,0
-# Ruta 004 (9) - Pueblo aguacate (6)
-9,West,0,6,East,0
 # Ruta 007 (15) - Pueblo aguacate (6)
 15,East,25,6,West,0
 # Ruta 008 (20) - Ciudad perro muerto (23)
@@ -49,7 +45,7 @@
 # Extension ruta 008 (26) - Ciudad perro muerto (23)
 26,North,0,23,South,58
 # Ruta 004 (9) - Zona misteriosa (18)
-9,North,0,18,South,0
+9,North,8,18,South,0
 # Ruta 008 (20) - Zona misteriosa (18)
 20,South,85,18,North,0
 # Extension ruta 008 (26) - Zona misteriosa (18)
@@ -60,10 +56,6 @@
 19,East,53,2,West,0
 # Ruta 007 (15) - Zona misteriosa (19)
 15,South,16,19,North,0
-# Ruta 005 (10) - Ruta 004 (9)
-10,West,25,9,East,0
-# Extension ruta 008 (26) - Ruta 008 (20)
-26,West,0,20,East,0
 # Ruta 007 (15) - Ruta 008 (20)
 15,North,0,20,South,0
 # Ruta 005 (10) - Ruta 008 (20)
