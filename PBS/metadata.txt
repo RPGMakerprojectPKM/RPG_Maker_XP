@@ -92,7 +92,6 @@ ShowArea=true
 # Zona misteriosa
 MapPosition=0,13,10
 [019]
-# Zona misteriosa
 MapPosition=0,13,10
 Outdoor=true
 [020]
@@ -142,6 +141,7 @@ ShowArea=true
 Bicycle=true
 MapPosition=0,16,8
 [030]
+# Casa2
 MapPosition=0,16,8
 [031]
 MapSize=2,1101

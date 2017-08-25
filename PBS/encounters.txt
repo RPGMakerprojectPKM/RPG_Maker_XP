@@ -50,6 +50,22 @@ METAPOD,2,4
 METAPOD,3,5
 METAPOD,3,5
 #########################
+017 # Cueva del cefalopodo ct.
+20,10,12
+Cave
+ZUBAT,3,5
+ZUBAT,3,5
+ZUBAT,3,5
+ZUBAT,3,5
+ZUBAT,3,5
+ZUBAT,3,5
+ZUBAT,3,5
+ZUBAT,3,5
+ZUBAT,3,5
+MACHOP,3,5
+MACHOP,3,6
+ABRA,3,6
+#########################
 021 # Entrada N. Cueva del cefalopodo
 25,10,10
 Land
