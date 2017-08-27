@@ -1,5 +1,5 @@
 # Pueblo aguacate (6) - Ruta 002 (5)
-6,South,7,5,North,0
+6,South,4,5,North,0
 # Ruta 003 (7) - Ruta 002 (5)
 7,West,0,5,East,8
 # Pueblo Empanada (2) - Ruta 002 (5)
@@ -7,25 +7,25 @@
 # Ruta 007 (15) - Ruta 002 (5)
 15,South,32,5,North,0
 # Ruta 009 (22) - Zona misteriosa (16)
-22,South,0,16,North,109
+22,South,0,16,North,106
 # Pueblo aguacate (6) - Zona misteriosa (16)
 6,North,0,16,South,0
 # Zona misteriosa (18) - Zona misteriosa (16)
 18,West,0,16,East,0
 # Ruta 008 (20) - Zona misteriosa (16)
-20,South,25,16,North,0
+20,South,28,16,North,0
 # Ruta 004 (9) - Zona misteriosa (16)
 9,West,0,16,East,25
 # Ruta 007 (15) - Zona misteriosa (16)
 15,East,0,16,West,0
 # Extension ruta 008 (26) - Zona misteriosa (16)
-26,South,0,16,North,43
+26,South,0,16,North,40
 # Ruta 003 (7) - Ruta 006 (11)
 7,East,0,11,West,0
 # Zona misteriosa (18) - Ruta 009 (22)
 18,North,49,22,South,0
 # Ruta 004 (9) - Ruta 009 (22)
-9,East,0,22,West,97
+9,East,0,22,West,93
 # Ruta 007 (15) - Ruta 009 (22)
 15,North,134,22,South,0
 # Extension ruta 008 (26) - Ruta 009 (22)
@@ -49,7 +49,7 @@
 # Ruta 005 (10) - Zona misteriosa (18)
 10,West,0,18,East,0
 # Extension ruta 008 (26) - Pueblo Empanada (2)
-26,West,190,2,East,0
+26,West,186,2,East,0
 # Ruta 007 (15) - Ruta 008 (20)
 15,North,0,20,South,0
 # Ruta 005 (10) - Ruta 008 (20)
@@ -59,4 +59,4 @@
 # Extension ruta 008 (26) - Ruta 007 (15)
 26,South,0,15,North,68
 # Ruta 005 (10) - Extension ruta 008 (26)
-10,West,0,26,East,72
+10,West,0,26,East,68
