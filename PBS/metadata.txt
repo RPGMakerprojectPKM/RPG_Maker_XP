@@ -92,6 +92,7 @@ ShowArea=true
 # Zona misteriosa
 MapPosition=0,13,10
 [019]
+# Ruta 010
 MapPosition=0,13,10
 Outdoor=true
 [020]
